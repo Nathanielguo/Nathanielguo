@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Nathaniel Guo</title>
+  <desc id="desc">Medical marketing, AI systems, design and visual storytelling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06111C"/>
+      <stop offset="1" stop-color="#0A1D2D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4FDCF9"/>
+      <stop offset="1" stop-color="#1A91E4"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#B9E8FF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="32" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="32" fill="url(#grid)"/>
+  <circle cx="1330" cy="250" r="190" fill="#0AADEA" opacity="0.17" filter="url(#blur)"/>
+
+  <g fill="#F2F8FC" font-family="Inter, 'Segoe UI', Arial, sans-serif">
+    <text x="72" y="72" font-size="16" font-weight="700" letter-spacing="6">NATHANIEL / PROFILE</text>
+    <text x="1528" y="72" text-anchor="end" font-size="14" font-weight="600" letter-spacing="4" opacity="0.64">CHENGDU · CHINA</text>
+    <text x="72" y="232" font-size="102" font-weight="750" letter-spacing="-4">NATHANIEL</text>
+    <text x="72" y="338" font-size="102" font-weight="750" letter-spacing="-4">GUO<tspan fill="#39C9F3">.</tspan></text>
+    <text x="76" y="407" font-size="18" font-weight="650" letter-spacing="3.2">MEDICAL MARKETING · AI SYSTEMS · DESIGN · PHOTOGRAPHY</text>
+    <text x="76" y="466" font-size="15" font-weight="600" letter-spacing="2.2" opacity="0.62">NOT A DEVELOPER BY TRADE. A BUILDER BY INSTINCT.</text>
+  </g>
+
+  <g transform="translate(1266 254)">
+    <circle r="126" fill="none" stroke="#C8EDFF" stroke-opacity="0.16" stroke-width="1"/>
+    <circle r="94" fill="none" stroke="#C8EDFF" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="2 9"/>
+    <path d="M-113-55A126 126 0 0 1 65-108" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M-76 92A120 120 0 0 0 116 28" fill="none" stroke="#B9E8FF" stroke-opacity="0.28" stroke-width="2"/>
+    <circle cx="-111" cy="-59" r="7" fill="#4FDCF9"/>
+    <circle cx="119" cy="25" r="5" fill="#1A91E4"/>
+    <rect x="-61" y="-55" width="122" height="110" rx="24" fill="#071521" fill-opacity="0.58" stroke="#B9E8FF" stroke-opacity="0.2"/>
+    <text x="0" y="15" text-anchor="middle" fill="#F2F8FC" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="46" font-weight="750" letter-spacing="-2">NG</text>
+  </g>
+
+  <path d="M1454 398h74" stroke="#B9E8FF" stroke-opacity="0.22"/>
+  <circle cx="1438" cy="398" r="4" fill="#4FDCF9"/>
+</svg>
