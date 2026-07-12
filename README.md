@@ -11,7 +11,7 @@
 
 ## Not a developer by trade. A builder by instinct.
 
-I’m **Nathaniel Guo · 郭兆龙**. I work where **medical technology, marketing, professional education, product thinking and visual storytelling** meet. By day, I turn complex ideas into narratives and experiences people can understand. Beyond work, I turn repeated problems into AI workflows, knowledge systems and small products people can actually use.
+I’m **Nathaniel Guo**. I work where **medical technology, marketing, professional education, product thinking and visual storytelling** meet. By day, I turn complex ideas into narratives and experiences people can understand. Beyond work, I turn repeated problems into AI workflows, knowledge systems and small products people can actually use.
 
 我不以代码定义自己。我更擅长发现值得解决的问题，调动市场、设计、内容与 AI，把复杂问题讲清楚，把模糊想法做成可用的东西，把零散经验组织成能够持续生长的系统。
 
